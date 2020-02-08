@@ -1,0 +1,96 @@
+/*global Selector*/
+
+@font-face {
+src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+font-family:"Sacramento";
+}
+@font-face {
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+    font-family: "Merriweather";
+}
+@font-face {
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    font-family: "Montserrat";
+}
+
+.heading{
+    background-image: url(../living-technology-1243119.jpg);
+    background-size: 50%;
+}
+.sub-heading{
+    font-family: "Sacramento";
+    font-size: 40px;
+    font-weight: 30%;
+    margin-left: 75%;
+}
+
+h1{
+    font-family: "Merriweather";
+    text-align: center;
+    font-size: 30px;
+    color: darkmagenta;
+    padding-top: 5%;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-family:"Merriweather-Black";
+    text-align: left;
+    margin-left: 10%;
+    font-size:20px;
+    color:black;
+}
+h4{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 10%;
+}
+h5{
+    text-align: center;
+    font-size: 100%;
+
+}
+.content-sub{
+    text-align: center;
+    font-family: "Merriweather";
+    font-size: 40px;
+    color: black;
+    
+}
+.mid{
+    text-align: center;
+    font-size: 50%;
+}
+
+#dp{
+    height: 250px; 
+    width: 250px;
+    border-radius: 50%;
+    align-content: center;
+    margin-left: 40%;
+}
+#describe{
+    margin-left: 10%;
+}
+#ds{
+    text-align: initial;
+    margin-left: 10%;
+}
+#contact{
+    text-align: center;
+
+}
+#fb{
+    text-align: center;
+    margin-left: 48%;
+}
+#gmail{
+    text-align: center;
+    margin-left:48%;
+    float: left;
+    
+}
+#cp{
+    text-align: center;
+}
